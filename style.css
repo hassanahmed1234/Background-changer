@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    background-color: #8e9ca8;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+}
+.card{
+    background-color: #d7e1eca2;
+    box-shadow: rgba(111, 7, 180, 0.774) 0px 5px 15px;
+}
+.heading{
+    font-size: xx-large;
+}
